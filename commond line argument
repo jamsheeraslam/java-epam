@@ -1,0 +1,8 @@
+import java.io.*;
+class Jasd
+{
+public static void main(String args[])
+{
+System.out.println(args[0]+" technologirs "+args[1]);
+}
+}
